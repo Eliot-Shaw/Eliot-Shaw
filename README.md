@@ -1,4 +1,4 @@
-helo
+hello
 
 Je suis Eliot Shaw, 
 J'aime bien le développement et le réseau
